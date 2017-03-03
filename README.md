@@ -8,3 +8,9 @@ Select the maximum and minimum value
 3. Repeat the above steps for all elements except the last one;
 
 4. Repeat steps 1 through 3 until sorting is complete
+
+The best case :T(n) = O(n)
+
+The worst case: T(n) = O(n^2)
+
+The average case: T(n) = O(n^2)
